@@ -45,6 +45,7 @@ def add_gems
   gem 'devise_masquerade', '~> 1.2'
   gem 'font-awesome-sass', '~> 5.13'
   gem 'friendly_id', '~> 5.3'
+  gem 'haml-rails', '~> 2.0'
   gem 'image_processing'
   gem 'mini_magick', '~> 4.10', '>= 4.10.1'
   gem 'name_of_person', '~> 1.1'
